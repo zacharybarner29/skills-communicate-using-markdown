@@ -1,7 +1,8 @@
 # Daily Learning 
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">  
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">  
+
 1. [ ] make a list
 2. [ ] learn different types of lists
   - Unordered
